@@ -28,3 +28,6 @@ Customer buying behavior patterns.
 Business Owners: Track and optimize sales strategy.
 Data Analysts: Perform quick analysis without coding.
 E-commerce Teams: Monitor performance and improve decision-making.
+
+📸 Preview
+https://github.com/Rvc-ai/Ecommerce-Sales-Analysis/blob/main/Ecommerce%20Sales.png
